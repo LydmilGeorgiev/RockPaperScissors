@@ -1,0 +1,15 @@
+D:\visual studio\ConsoleApp2\bin\Debug\net6.0\Rock – Paper – Scissors.exe
+D:\visual studio\ConsoleApp2\bin\Debug\net6.0\Rock – Paper – Scissors.deps.json
+D:\visual studio\ConsoleApp2\bin\Debug\net6.0\Rock – Paper – Scissors.runtimeconfig.json
+D:\visual studio\ConsoleApp2\bin\Debug\net6.0\Rock – Paper – Scissors.dll
+D:\visual studio\ConsoleApp2\bin\Debug\net6.0\Rock – Paper – Scissors.pdb
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.AssemblyInfoInputs.cache
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.AssemblyInfo.cs
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.dll
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\refint\Rock – Paper – Scissors.dll
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.pdb
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\Rock – Paper – Scissors.genruntimeconfig.cache
+D:\visual studio\ConsoleApp2\obj\Debug\net6.0\ref\Rock – Paper – Scissors.dll
